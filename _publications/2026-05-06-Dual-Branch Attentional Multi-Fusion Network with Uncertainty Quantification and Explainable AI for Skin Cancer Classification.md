@@ -1,6 +1,7 @@
 ---
 title: "Dual-Branch Attentional Multi-Fusion Network with Uncertainty Quantification and Explainable AI for Skin Cancer Classification"
-collection: Conferences
+collection: Publications
+category: Conference
 date: "2026-05-06"
 venue: "IEEE"
 paperurl: "https://doi.org/10.1109/ICCIT68739.2025.11490225"
